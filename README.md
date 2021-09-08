@@ -12,7 +12,7 @@ Skills: JS / REACT / REDUX / EXPRESS / NODE JS / SQL / PostgreSQL / HTML5 / CSS3
 - 🔭 I’m currently working on elviacamarena.dev / juicybliss.com / flyingstarsfengshui.com 
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
-[![Elvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicybliss&show_icons=true&theme=synthwave
+[![Elvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicybliss&show_icons=true&theme=cobalt
 )](https://github.com/juicybliss/github-readme-stats)
 
 
