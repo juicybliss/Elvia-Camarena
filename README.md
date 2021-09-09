@@ -1,9 +1,9 @@
-# Hi there 👋, my name is Elvia
-## I am a Clean Agile Web Developer
+### Hi there 👋, my name is Elvia Camarena
+# I am a Clean Agile Web Developer
 
 
 
-![I am a Clean Agile Web Developer](https://www.juicybliss.com/redappbanner.png)
+![I am a Clean Agile Web Developer](https://github.com/juicybliss/Elvia-Camarena/blob/main/redappbanner.png)
 
 If you'd like to know about me and see my resumé, click [here](https://www.juicybliss.com/about)
 
