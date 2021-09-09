@@ -5,15 +5,25 @@
 
 ![I am a Clean Agile Web Developer](https://www.juicybliss.com/redappbanner.png)
 
-If you'd like to know about me, click this link juicybliss.com/about
+If you'd like to know about me, click [here](juicybliss.com/about)
 
-Skills: JS / REACT / REDUX / EXPRESS / NODE JS / SQL / PostgreSQL / HTML5 / CSS3 / BootStrap5 / NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD Fundamentals:  Ai Ps Xd Id
+Skills: JS / REACT / REDUX / EXPRESS / NODE JS / SQL / PostgreSQL / HTML5 / CSS3 / BootStrap5
+NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD Fundamentals:  Ai Ps Xd Id
 
-- 🔭 I’m currently working on elviacamarena.dev / juicybliss.com / flyingstarsfengshui.com 
+
+- 🔭 I’m currently working on [my portfolio](elviacamarena.dev) / [JuicyBliss](juicybliss.com) / [FlyingStarsFengShui](flyingstarsfengshui.com) 
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
-[![Elvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicybliss&show_icons=true&theme=cobalt
+
+
+
+
+[![Elvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juicybliss&show_icons=true&theme=dark
 )](https://github.com/juicybliss/github-readme-stats)
+
+
+
+
 
 
 
