@@ -13,7 +13,6 @@ NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
 
 
 - 🔭 I’m currently working on [my portfolio](https://www.elviacamarena.dev) / [JuicyBliss](https://www.juicybliss.com) / [FlyingStarsFengShui](http://www.flyingstarsfengshui.com) 
-
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
 
