@@ -1,18 +1,18 @@
-### Hi there 👋, my name is Elvia Camarena
-# I am a Clean Agile Web Developer
-
+# Hi there 👋, I'm Elvia
+## A Clean Agile Web Developer
 
 
 ![I am a Clean Agile Web Developer](https://github.com/juicybliss/Elvia-Camarena/blob/main/redappbanner.png)
 
-If you'd like to know about me and see my resumé, click [here](https://www.juicybliss.com/about)
+If you'd like to see my resumé, click [here](https://www.juicybliss.com/download_resume.pdf)
 
 Skills: 
 JS / REACT / REDUX / EXPRESS / NODE JS / SQL / POSTGRESQL / HTML5 / CSS3 / BOOTSTRAP5 
-NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
+NPM / GIT  / GITHUB / COMMAND-LINE / HEROKU / CREATIVE CLOUD
 
 
-- 🔭 I’m currently working on [my portfolio](https://www.elviacamarena.dev) / [JuicyBliss](https://www.juicybliss.com) / [FlyingStarsFengShui](http://www.flyingstarsfengshui.com) 
+- 🔭 Check out [my portfolio](https://elvia-portfolio.netlify.app). I'm adding to it every day.
+- The next project I am excited about working on is the [Flying Stars Feng Shui App](https://elvia-portfolio.netlify.app/#fengshui) 
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
 
